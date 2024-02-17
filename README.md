@@ -2,15 +2,15 @@
 This is a portfolio website showcasing the skills, projects, blogs, and contact information of Aman Kesharwani, a student interested in working in the field of development.
 
 # Table of Contents
-Description
-Features
-Technologies Used
-Project Structure
-Installation
-Usage
-Contributing
-License
-Contact
+* Description
+* Features
+* Technologies Used
+* Project Structure
+* Installation
+* Usage
+* Contributing
+* License
+* Contact
 
 # Description
 This website serves as a personal portfolio for Aman Kesharwani, highlighting his education, skills, projects, blogs, and contact information. It includes sections such as About Me, Portfolio, Blogs, and Contact Me.
@@ -32,17 +32,17 @@ Interactive controls for navigating through different sections.
 # Project Structure
 The project structure is organized into the following main sections:
 
-#Header: 
+* Header: 
 Contains personal information and navigation controls.
-#Main Content: 
+* Main Content: 
 Divided into sections such as About Me, Portfolio, Blogs, and Contact Me.
-#Controls: 
+* Controls: 
 Interactive controls for navigation.
-#Theme Button:
+* Theme Button:
 Allows users to switch between light and dark themes.
-#Stylesheet:
+* Stylesheet:
 External CSS file (styles/styles.css).
-#JavaScript File:
+* JavaScript File:
 Handles interactivity and functionality (app.js).
 
 # Installation
