@@ -64,9 +64,9 @@ This project is licensed under the MIT License.
 # Contact
 For any inquiries or feedback, you can reach out to Aman Kesharwani via:
 
-Email: amankesharwani7100@gmail.com
-Mobile: +91 8305917100
-Location: Sagar, Madhya Pradesh, India
+* Email: amankesharwani7100@gmail.com
+* Mobile: +91 8305917100
+* Location: Sagar, Madhya Pradesh, India
 
 # Portfolio Live Link Aman Kesharwani
 https://amankesharwani7100.github.io/Portfolio/
