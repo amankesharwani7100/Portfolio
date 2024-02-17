@@ -23,26 +23,26 @@ Links to external profiles (e.g., GitHub, LinkedIn, social media).
 Interactive controls for navigating through different sections.
 
 # Technologies Used
-HTML5
-CSS3
-JavaScript
-Font Awesome icons
-Google Fonts
+1. HTML5
+2. CSS3
+3. JavaScript
+4. Font Awesome icons
+5. Google Fonts
 
 # Project Structure
 The project structure is organized into the following main sections:
 
 #Header: 
 Contains personal information and navigation controls.
-# Main Content: 
+#Main Content: 
 Divided into sections such as About Me, Portfolio, Blogs, and Contact Me.
-# Controls: 
+#Controls: 
 Interactive controls for navigation.
-# Theme Button:
+#Theme Button:
 Allows users to switch between light and dark themes.
-# Stylesheet:
+#Stylesheet:
 External CSS file (styles/styles.css).
-# JavaScript File:
+#JavaScript File:
 Handles interactivity and functionality (app.js).
 
 # Installation
