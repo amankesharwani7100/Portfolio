@@ -32,7 +32,7 @@ Google Fonts
 # Project Structure
 The project structure is organized into the following main sections:
 
-# Header: 
+#Header: 
 Contains personal information and navigation controls.
 # Main Content: 
 Divided into sections such as About Me, Portfolio, Blogs, and Contact Me.
